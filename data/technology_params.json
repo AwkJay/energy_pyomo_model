@@ -1,0 +1,37 @@
+{
+  "Coal": {
+    "capital_cost": 1800,
+    "variable_cost": 35,
+    "capacity_factor": 0.7,
+    "emissions": 0.95,
+    "renewable": 0
+  },
+  "Gas": {
+    "capital_cost": 1000,
+    "variable_cost": 50,
+    "capacity_factor": 0.55,
+    "emissions": 0.45,
+    "renewable": 0
+  },
+  "Wind": {
+    "capital_cost": 1450,
+    "variable_cost": 5,
+    "capacity_factor": 0.33,
+    "emissions": 0.0,
+    "renewable": 1
+  },
+  "Solar": {
+    "capital_cost": 750,
+    "variable_cost": 3,
+    "capacity_factor": 0.22,
+    "emissions": 0.0,
+    "renewable": 1
+  },
+  "Hydro": {
+    "capital_cost": 2200,
+    "variable_cost": 7,
+    "capacity_factor": 0.45,
+    "emissions": 0.0,
+    "renewable": 1
+  }
+}
